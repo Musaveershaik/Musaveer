@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Musaveer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaveershaik&label=Profile%20views&color=0e75b6&style=flat" alt="musaveershaik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaveershaik" alt="musaveershaik" /></a> </p>
+
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://musaveer.netlify.app/](https://musaveer.netlify.app/)
+
+- 📫 How to reach me **musaveershaikh43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
