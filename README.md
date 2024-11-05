@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Musaveer.xyz/](https://musaveer.xyz/)
+- 👨‍💻 All of my projects are available at [Musaveer.xyz](https://musaveer.xyz/)
 
 - 📫 How to reach me **musaveershaikh43@gmail.com**
 
